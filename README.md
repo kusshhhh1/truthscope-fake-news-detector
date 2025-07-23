@@ -1,0 +1,1 @@
+"# truthscope-fake-news-detector" 
